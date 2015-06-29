@@ -1,0 +1,11 @@
+For raspbian installation
+https://www.howtoforge.com/tutorial/howto-install-raspbian-on-raspberry-pi/
+
+Installing opencv on raspberry pi
+http://raspberrypi.stackexchange.com/questions/27232/installing-opencv-3-0-on-raspberry-pi-b
+http://robertcastle.com/2014/02/installing-opencv-on-a-raspberry-pi/
+http://mitchtech.net/raspberry-pi-opencv/
+
+
+For running raspberry pi in laptop using vnc(if you don't have any display) 
+http://sohilpatel.org/tutorial-rasbperry-pi-desktop-on-your-laptop-screen/

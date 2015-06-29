@@ -1,0 +1,27 @@
+*include*
+/usr/local/include/opencv
+/usr/local/include/opencv2
+
+*library*
+/usr/local/lib/
+
+*libraries*
+opencv_calib3d
+opencv_imgproc
+opencv_superres
+opencv_core
+opencv_ml
+opencv_videoio
+opencv_features2d
+opencv_objdetect
+opencv_video
+opencv_flann
+opencv_photo
+opencv_videostab
+opencv_highgui
+opencv_shape
+opencv_imgcodecs
+opencv_stitching
+
+cascade path
+/home/jignesh/opencv/opencv-3.0.0-alpha

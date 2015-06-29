@@ -1,0 +1,5 @@
+Installing opencv in ubuntu 
+http://rodrigoberriel.com/2014/10/installing-opencv-3-0-0-on-ubuntu-14-04/
+
+configuring opencv for eclipe
+http://rodrigoberriel.com/2014/10/using-opencv-3-0-0-with-eclipse/
